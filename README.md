@@ -1,1 +1,1 @@
-# -Jung-soo Portfolio
+# Jung-soo Portfolio
