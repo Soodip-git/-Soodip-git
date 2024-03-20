@@ -493,27 +493,27 @@
   }
 
   .sec03_wrap ul li:nth-child(1) {
-    background-image: url(../img/음식7.jpg);
+    background-image: url(../img/food7.jpg);
   }
 
   .sec03_wrap ul li:nth-child(2) {
-    background-image: url(../img/음식3.jpg);
+    background-image: url(../img/food3.jpg);
   }
 
   .sec03_wrap ul li:nth-child(3) {
-    background-image: url(../img/음식8.jpg);
+    background-image: url(../img/food8.jpg);
   }
 
   .sec03_wrap ul li:nth-child(4) {
-    background-image: url(../img/음식1.jpg);
+    background-image: url(../img/food1.jpg);
   }
 
   .sec03_wrap ul li:nth-child(5) {
-    background-image: url(../img/음식5.jpg);
+    background-image: url(../img/food5.jpg);
   }
 
   .sec03_wrap ul li:nth-child(6) {
-    background-image: url(../img/음식4.jpg);
+    background-image: url(../img/food4.jpg);
   }
 
   .sec03_wrap .sec03_viewMore {
